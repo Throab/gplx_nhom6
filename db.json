@@ -1,7 +1,13 @@
 {
-  "id":"1",
-  "content":"câu hỏi 1",
-  "answers":[
+  
+  "questions": [
+    {
+      "id":"1",
+     "content":"câu hỏi 1",
+      "isImportant":true
+    }
+  ],
+  "answers": {
     {
       "aContent":"cau tar loi 1"
       "isTrue":false
@@ -10,5 +16,5 @@
       "aContent":"cau tar loi 2"
       "isTrue":true
     }
-  ]
+  }
 }
