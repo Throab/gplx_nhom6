@@ -1,11 +1,27 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "questions":[
+        {"id":"1",
+        "content":"cau hoi 1",
+        "image":null,
+        "isImportant": false
+        },
+        {"id":"2",
+        "content":"cau hoi 2",
+        "image":null,
+        "isImportant": true
+        }
+
+    ],
+    "answers":[
+        {"id":"1",
+        "content":"Cau tra loi 1",
+        "questionId":"1",
+        "isTrue":false
+        },
+        {"id":"2",
+        "content":"Cau tra loi 2",
+        "questionId":"1",
+        "isTrue":true
+        }
+    ]
 }
