@@ -1,11 +1,24 @@
 {
+    "questions":[
+        {"id":"1",
+        "content":"cau hoi 1",
+        "image":null,
+        "isImportant": false
+        },
+        {"id":"2",
+        "content":"cau hoi 2",
+        "image":null,
+        "isImportant": true
+        }
+
+    ],
     "answers":[
-        {"answerId":"1",
+        {"id":"1",
         "content":"Cau tra loi 1",
         "questionId":"1",
         "isTrue":false
         },
-        {"answerId":"2",
+        {"id":"2",
         "content":"Cau tra loi 2",
         "questionId":"1",
         "isTrue":true
