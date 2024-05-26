@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "id":"1",
+  "content":"câu hỏi 1",
+  "answers":[
     {
-      "id": 1,
-      "title": "hello"
+      "aContent":"cau tar loi 1"
+      "isTrue":false
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    {
+      "aContent":"cau tar loi 2"
+      "isTrue":true
+    }
+  ]
 }
