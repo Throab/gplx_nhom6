@@ -1,19 +1,42 @@
 {
-    "photos":[
-        {
-            "albumId": 1,
-            "id": 1,
-            "title": "accusamus beatae ad facilis cum similique qui sunt",
-            "url": "https://via.placeholder.com/600/92c952",
-            "thumbnailUrl": "https://via.placeholder.com/150/92c952"
-          },
-          {
-            "albumId": 1,
-            "id": 2,
-            "title": "reprehenderit est deserunt velit ipsam",
-            "url": "https://via.placeholder.com/600/771796",
-            "thumbnailUrl": "https://via.placeholder.com/150/771796"
-          }
+    "questions":[
+        {"id":"1",
+        "content":"Phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại là gì?",
+        "image":null,
+        "isImportant": false,
+        "type": "1"
+        },
+            {"id":"2",
+            "content":"\"Làn đường\" là gì",
+            "image":null,
+            "isImportant": true,
+            "type":"1"
+            },
+            {"id":"3",
+            "content":"Trong các khái niệm dưới đây, \"Dải phân cách\" được hiểu như thế nào là đúng?",
+            "image":null,
+            "isImportant": true,
+            "type":"1"
+            },
+            {"id":"4",
+            "content":"\"Dải phân cách\" trên đường bộ gồm những loại nào",
+            "image":null,
+            "isImportant": true,
+            "type":"1"
+            },
+            {"id":"5",
+            "content":"Người lái xe được hiểu như thế nào trong các khái niệm dưới đây?",
+            "image":null,
+            "isImportant": true,
+            "type":"1"
+            },
+            {"id":"6",
+            "content":"Đường mà trên đó phương tiện tham gia gia giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên là loại đường gì.",
+            "image":null,
+            "isImportant": true,
+            "type":"1"
+            }
+
     ],
     "answers":[
         {"id":"1",
@@ -26,18 +49,5 @@
         "questionId":"1",
         "isTrue":true
         }
-    ],
-    "questions":[
-        {"id":"1",
-        "content":"cau hoi 1",
-        "image":null,
-        "isImportant": false
-        },
-        {"id":"2",
-        "content":"cau hoi 2",
-        "image":null,
-        "isImportant": true
-        }
-
     ]
 }
