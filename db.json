@@ -1,53 +1,119 @@
 {
     "questions":[
-        {"id":"1",
+        {"questionId":"1",
+        "examId":null,
         "content":"Phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại là gì?",
         "image":null,
         "isImportant": false,
-        "type": "1"
+        "type": "1",
+        "isChooseAnswer":null
         },
-            {"id":"2",
-            "content":"\"Làn đường\" là gì",
-            "image":null,
-            "isImportant": true,
-            "type":"1"
-            },
-            {"id":"3",
-            "content":"Trong các khái niệm dưới đây, \"Dải phân cách\" được hiểu như thế nào là đúng?",
-            "image":null,
-            "isImportant": true,
-            "type":"1"
-            },
-            {"id":"4",
-            "content":"\"Dải phân cách\" trên đường bộ gồm những loại nào",
-            "image":null,
-            "isImportant": true,
-            "type":"1"
-            },
-            {"id":"5",
-            "content":"Người lái xe được hiểu như thế nào trong các khái niệm dưới đây?",
-            "image":null,
-            "isImportant": true,
-            "type":"1"
-            },
-            {"id":"6",
-            "content":"Đường mà trên đó phương tiện tham gia gia giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên là loại đường gì.",
-            "image":null,
-            "isImportant": true,
-            "type":"1"
-            }
+        {"questionId":"2",
+        "examId":null,
+        "content":"\"Làn đường\" là gì",
+        "image":null,
+        "isImportant": false,
+        "type":"1",
+        "isChooseAnswer":null
+        },
+        {"questionId":"3",
+        "examId":null,
+        "content":"Trong các khái niệm dưới đây, \"Dải phân cách\" được hiểu như thế nào là đúng?",
+        "image":null,
+        "isImportant": false,
+        "type":"1",
+        "isChooseAnswer":null
+        },
+        {"questionId":"4",
+        "examId":null,
+        "content":"\"Dải phân cách\" trên đường bộ gồm những loại nào",
+        "image":null,
+        "isImportant": false,
+        "type":"1",
+        "isChooseAnswer":null
+        },
+        {"questionId":"5",
+        "examId":null,
+        "content":"Người lái xe được hiểu như thế nào trong các khái niệm dưới đây?",
+        "image":null,
+        "isImportant": false,
+        "type":"1",
+        "isChooseAnswer":null
+        },
+        {"questionId":"6",
+        "examId":null,
+        "content":"Đường mà trên đó phương tiện tham gia gia giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên là loại đường gì.",
+        "image":null,
+        "isImportant": false,
+        "type":"1",
+        "isChooseAnswer":null
+        },
+        {"questionId":"7",
+        "examId":null,
+        "content":"Khái niệm về văn hóa giao thông được hiểu như thế nào là đúng.",
+        "image":null,
+        "isImportant": false,
+        "type":"2",
+        "isChooseAnswer":null
+        },
+        {"questionId":"9",
+        "examId":null,
+        "content":"Trong các hành vi dưới đây, người lái xe ô tô có văn hóa giao thông phải ứng xử như thế nào?",
+        "image":null,
+        "isImportant": false,
+        "type":"2",
+        "isChooseAnswer":null
+        },
+        {"questionId":"10",
+        "examId":null,
+        "content":"Khi quay đầu xe, người lái xe cần phải quan sát và thực hiện các thao tác nào để đảm bảo an toàn giao thông?",
+        "image":null,
+        "isImportant": false,
+        "type":"3",
+        "isChooseAnswer":null
+        },
+        {"questionId":"11",
+        "examId":null,
+        "content":"Khi tránh nhau trên đường hẹp, người lái xe cần phải chú ý những điểm nào để đảm bảo an toàn giao thông?",
+        "image":null,
+        "isImportant": false,
+        "type":"3",
+        "isChooseAnswer":null
+        },
+        {"questionId":"12",
+        "examId":null,
+        "content":"Khi điều khiển xe trên đường vòng người lái xe cần phải làm gì để đảm bảo an toàn?",
+        "image":null,
+        "isImportant": false,
+        "type":"3",
+        "isChooseAnswer":null
+        },
+        {"questionId":"13",
+        "examId":null,
+        "content":"Hành vi nào dưới đây bị nghiêm cấm?",
+        "image":null,
+        "isImportant": true,
+        "type":"1",
+        "isChooseAnswer":null
+        },
+        {"questionId":"14",
+        "examId":null,
+        "content":"Hành vi sử dụng xe mô tô để kéo, đẩy xe mô tô khác bị hết xăng đến trạm mua xăng có được phép hay không?",
+        "image":null,
+        "isImportant": true,
+        "type":"1",
+        "isChooseAnswer":null
+        }
 
     ],
     "answers":[
-        {"id":"1",
-        "content":"Cau tra loi 1",
-        "questionId":"1",
-        "isTrue":false
-        },
-        {"id":"2",
-        "content":"Cau tra loi 2",
-        "questionId":"1",
-        "isTrue":true
+        {"answerId":"1",
+        "answerContent": "",
+        "isCorrect":"",
+        "questionId":"",
+        "answerExplain":"",
+        "flag" :"1",
+        "isChoose":false
         }
     ]
 }
